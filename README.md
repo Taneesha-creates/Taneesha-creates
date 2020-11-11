@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on contributing to open source - manim
 - 🌱 I’m currently learning Data Science
 <!--- 👯 I’m looking to collaborate on ... -->
